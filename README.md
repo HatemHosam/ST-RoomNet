@@ -2,7 +2,7 @@
 
 This is the official implementation of [ST-RoomNet](https://openaccess.thecvf.com/content/CVPR2023W/VOCVALC/html/Ibrahem_ST-RoomNet_Learning_Room_Layout_Estimation_From_Single_Image_Through_Unsupervised_CVPRW_2023_paper.html)
 
-[Figure1](figure.png)
+[!Figure1](figure.png)
 
 The spatial transformer module is based on this repo: https://github.com/dantkz/spatial-transformer-tensorflow
 
